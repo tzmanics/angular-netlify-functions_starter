@@ -1,6 +1,6 @@
 # o(^▽^)o Angular Netlify Functions Starter
 
-This project has the bare-bones pieces to get you started adding serverless functions to you Angular application. [Netlify Functions](https://www.netlify.com/products/functions/?utm_source=repo&utm_medium=ng-func-starter-tzm&utm_campaign=devex) wrap up AWS Lambda Functions so you don't need an AWS account, manage your functions alongside your app in Netlify, and Netlify handles all the infrastructure.
+This project has the bare-bones pieces to get you started adding serverless functions to your Angular application. [Netlify Functions](https://www.netlify.com/products/functions/?utm_source=repo&utm_medium=ng-func-starter-tzm&utm_campaign=devex) wrap up AWS Lambda Functions so you don't need an AWS account, manage your functions alongside your app in Netlify, and Netlify handles all the infrastructure.
 
 > 📓 [Check out this blog post](https://www.netlify.app/blog/2021/01/25/getting-started-with-netlify-functions-for-angular/?utm_source=repo&utm_medium=ng-func-starter-tzm&utm_campaign=devex) to get even more details about what's going on in this project.
 
